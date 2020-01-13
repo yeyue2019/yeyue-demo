@@ -1,0 +1,9 @@
+[submodule "yeyue-common"]
+	path = yeyue-common
+	url = git@gitee.com:fredyangyeyue/yeyue-common.git
+[submodule "yeyue-mq"]
+	path = yeyue-mq
+	url = git@gitee.com:fredyangyeyue/yeyue-mq.git
+[submodule "yeyue-dependency"]
+	path = yeyue-dependency
+	url = git@gitee.com:fredyangyeyue/yeyue-dependency.git
