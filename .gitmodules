@@ -7,3 +7,6 @@
 [submodule "yeyue-dependency"]
 	path = yeyue-dependency
 	url = git@gitee.com:fredyangyeyue/yeyue-dependency.git
+[submodule "yeyue-test"]
+	path = yeyue-test
+	url = git@gitee.com:fredyangyeyue/yeyue-test.git
