@@ -13,5 +13,6 @@
         <module>yeyue-common</module>
         <module>yeyue-mq</module>
         <module>yeyue-dependency</module>
+        <module>yeyue-test</module>
     </modules>
 </project>
