@@ -10,3 +10,12 @@
 [submodule "yeyue-test"]
 	path = yeyue-test
 	url = git@gitee.com:fredyangyeyue/yeyue-test.git
+[submodule "yeyue-facade"]
+	path = yeyue-facade
+	url = git@gitee.com:fredyangyeyue/yeyue-facade.git
+[submodule "yeyue-service"]
+	path = yeyue-service
+	url = git@gitee.com:fredyangyeyue/yeyue-service.git
+[submodule "yeyue-web"]
+	path = yeyue-web
+	url = git@gitee.com:fredyangyeyue/yeyue-web.git

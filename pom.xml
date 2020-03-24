@@ -14,5 +14,8 @@
         <module>yeyue-mq</module>
         <module>yeyue-dependency</module>
         <module>yeyue-test</module>
+        <module>yeyue-facade</module>
+        <module>yeyue-service</module>
+        <module>yeyue-web</module>
     </modules>
 </project>
