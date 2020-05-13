@@ -4,3 +4,12 @@
 [submodule "yeyue-common"]
 	path = yeyue-common
 	url = git@github.com:yeyue2019/yeyue-common.git
+[submodule "yeyue-facade"]
+	path = yeyue-facade
+	url = git@github.com:yeyue2019/yeyue-facade.git
+[submodule "yeyue-service"]
+	path = yeyue-service
+	url = git@github.com:yeyue2019/yeyue-service.git
+[submodule "yeyue-web"]
+	path = yeyue-web
+	url = git@github.com:yeyue2019/yeyue-web.git
