@@ -9,3 +9,6 @@ yeyue-demo 是一个用于了解目前流行java框架的实践项目，这是�
     - yeyue-facade : 接口暴露
     - yeyue-service : 消费者
     - yeyue-web : 生产者
+    
+- my email：
+  - yeyue2019@aliyun.com
