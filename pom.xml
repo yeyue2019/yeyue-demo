@@ -15,5 +15,6 @@
         <module>yeyue-facade</module>
         <module>yeyue-service</module>
         <module>yeyue-web</module>
+        <module>yeyue-cache</module>
     </modules>
 </project>

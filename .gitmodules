@@ -13,3 +13,6 @@
 [submodule "yeyue-web"]
 	path = yeyue-web
 	url = git@github.com:yeyue2019/yeyue-web.git
+[submodule "yeyue-cache"]
+	path = yeyue-cache
+	url = git@github.com:yeyue2019/yeyue-cache.git
